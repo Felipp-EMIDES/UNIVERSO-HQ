@@ -5,7 +5,7 @@ const products = [
         name: "Jujutsu Kaisen Vol. 1",
         category: "manga",
         price: 49.90,
-        image: "img/77309a91-9c98-4c52-9e25-0c2d046865f5.jpg",
+        image: "imagens/kaisen.jpeg",
         description: "Mangá de ação e sobrenatural"
     },
     {
@@ -13,7 +13,7 @@ const products = [
         name: "Attack on Titan Vol. 1",
         category: "manga",
         price: 54.90,
-        image: "img/2246c51d-efc0-4c33-a83e-c89bd73aec1e.jpg",
+        image: "imagens/titan.jpeg",
         description: "Mangá épico de fantasia"
     },
     {
@@ -21,7 +21,7 @@ const products = [
         name: "Spider-Man Clássico",
         category: "hq",
         price: 59.90,
-        image: "img/06870229-93ef-4557-800a-31c5122252e8.jpg",
+        image: "imagens/colecaoClass.jpeg",
         description: "HQ clássica dos quadrinhos"
     },
     {
@@ -29,7 +29,7 @@ const products = [
         name: "Spider-Man Coleção",
         category: "hq",
         price: 89.90,
-        image: "img/ab5b992e-16b6-4155-940c-6016693d3088.jpg",
+        image: "imagens/classic.jpeg",
         description: "Coleção completa de Spider-Man"
     },
     {
@@ -37,7 +37,7 @@ const products = [
         name: "Graphic Novel Especial",
         category: "graphic",
         price: 79.90,
-        image: "img/2c3ff821-74d3-4f3d-9ea4-f5269db53a9e.jpg",
+        image: "imagens/ColeçaoNova.jpeg",
         description: "Graphic novel de alta qualidade"
     },
     {
@@ -45,7 +45,7 @@ const products = [
         name: "Universo HQs - Coleção",
         category: "graphic",
         price: 99.90,
-        image: "img/8f06646f-c3fc-42c2-a0c2-30a4cdd44a91.jpg",
+        image: "imagens/coleçaoUniverso.jpeg",
         description: "Coleção especial da loja"
     }
 ];
